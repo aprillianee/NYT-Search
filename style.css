@@ -1,0 +1,125 @@
+.container {
+    font-family: 'Slabo 27px', serif;
+}
+.title {
+    background-color: #050546;
+    text-align: center;
+    margin-left: 115px;
+    border-radius: 10px;
+    font-size: 50px;
+    width: 85%;
+    color: white;
+    padding: 20px;
+}
+.search-body {
+    background-color:white;
+    border: solid 1px black;
+    width: 85%;
+    margin-top: 15px;
+    margin-left: 115px;
+    border-radius: 5px;
+    height: 550px;
+}
+.fa-keyboard-o {
+    font-size: 25px;
+}
+.fa-keyboard-o::before {
+    margin-right: 5px;
+}
+.search-header {
+    background-color:#050546;
+    margin-top: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    padding: 8px;
+    font-size: 25px;
+}
+.label-header {
+    color:#050546;
+    margin-left: 15px;
+    font-size: 25px;
+}
+input {
+    margin-left: 15px;
+    font-size: 50px;
+    margin-bottom: 30px; 
+}
+.form-control {
+    width: 95%;
+    height: 35px;
+}
+.buttons {
+    margin-left: 15px;
+}
+.btn {
+    padding-top: 10px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px; 
+    border: none;
+    background-color: grey; 
+}
+.glyphicon-search:before {
+    margin-right: 5px;
+}
+.glyphicon-trash::before {
+    margin-right: 5px;
+}
+.top-articles {
+    background-color:white;
+    border: solid 1px black;
+    width: 85%;
+    margin-top: 15px;
+    margin-left: 115px;
+    border-radius: 5px;
+    height: auto;
+}
+.glyphicon-pencil:before {
+    margin-right: 5px;
+}
+.glyphicon-pencil {
+    font-size: 20px;
+}
+.top-articles-header {
+    background-color:#050546;
+    margin-top: 0px;
+    font-size: 25px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+a {
+    text-decoration : none;
+    color : #000000;
+}
+a:hover {
+    text-decoration :none;
+    color : white;;
+}
+a:visited {
+    text-decoration : none;
+    color: #000000;
+}
+#footer {
+    padding-top: 50px;
+    text-align: center;
+}
+.results {
+    border-radius: 5px;
+    background-color: #E4E3E3;
+    width: auto;
+    height: auto;
+    margin: 10px;
+}
+.glyphicon-chevron-right {
+    font-size: 20px;
+}
+.headline-title {
+    font-size: 20px;  
+}
+.headline-body {
+    margin-left: 20px;
+    font-size: 15px;
+}
